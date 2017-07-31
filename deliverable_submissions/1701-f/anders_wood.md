@@ -11,9 +11,9 @@
     * Blog Post: Link to gist listing:
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [Anders' Turing Profile](https://www.turing.io/alumni/anders-wood)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): I completed a mock-interview with Ian Douglas (7/26). The session went well and was very similar to the interview practice we've done in class. Of course the mock-interview was more intense because it was 1-on-1 so I was put on the spot for every question. Ian provided great feedback for improving and making 'my story' more clear. Additionally, Ian's questions stumped me on several topics, including: MVC, 'how does the internet work'? and HTTP codes. I plan to brush up on these topics. 
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [Job Search Action Plan](https://gist.github.com/anderswood/3354c2a54fb0e9be00b51a7f5a04b01c)
 
 ## Mod 3 Deliverables:
 
